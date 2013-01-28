@@ -1,4 +1,6 @@
 SIGART_ChatBot
 ==============
 
-A chatbot for SIGART
+A chatbot for SIGART. 
+
+
